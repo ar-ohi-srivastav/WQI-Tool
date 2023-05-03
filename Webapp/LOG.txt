@@ -1,0 +1,4 @@
+ message.dat file read properly
+ Runge-Kutta                   
+ Newton-Raphson                
+ Sediment simulation option: Off
